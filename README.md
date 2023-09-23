@@ -1,9 +1,11 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application allows users to join chat rooms, where they can send and receive messages in real-time, creating a dynamic and interactive messaging experience. 
 
 ## In order to access the backend of the project :
 https://github.com/nanditha48/SocketChat-Backend.git
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
