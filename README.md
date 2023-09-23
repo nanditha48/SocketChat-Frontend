@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## In order to access the backend of the project :
+https://github.com/nanditha48/SocketChat-Backend.git
+
 ## Available Scripts
 
 In the project directory, you can run:
